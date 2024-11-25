@@ -1,0 +1,102 @@
+{
+"LearnPHP": [
+{
+"id": 1,
+"title": "Getting Started with PHP",
+"SubSection": [
+{
+"id": 1,
+"title": "What is PHP",
+"web_site": "https://sites.google.com/view/alians-php-1/home"
+},
+{
+"id": 2,
+"title": "Install PHP",
+"web_site": "https://sites.google.com/view/alians-php-2/home"
+},
+{
+"id": 3,
+"title": "Hello, World",
+"web_site": "https://sites.google.com/view/alians-php-3/home"
+}
+]
+},
+{
+"id": 2,
+"title": "PHP Fundamentals",
+"SubSection": [
+{
+"id": 1,
+"title": "Syntax",
+"web_site": "https://sites.google.com/view/alians-php-4/home"
+},
+{
+"id": 2,
+"title": "Variables",
+"web_site": "https://sites.google.com/view/alians-php-5/home"
+},
+{
+"id": 3,
+"title": "Constants",
+"web_site": "https://sites.google.com/view/alians-php-6/home"
+},
+{
+"id": 4,
+"title": "Comments",
+"web_site": "https://sites.google.com/view/alians-php-7/home"
+},
+{
+"id": 5,
+"title": "var_dump",
+"web_site": "https://sites.google.com/view/alians-php-8/home"
+}
+]
+},
+{
+"id": 3,
+"title": "PHP Types",
+"SubSection": [
+{
+"id": 1,
+"title": "Syntax",
+"web_site": "https://sites.google.com/view/alians-php-9/home"
+},
+{
+"id": 2,
+"title": "Variables",
+"web_site": "https://sites.google.com/view/alians-php-10/home"
+},
+{
+"id": 3,
+"title": "Constants",
+"web_site": "https://sites.google.com/view/alians-php-11/home"
+},
+{
+"id": 4,
+"title": "Comments",
+"web_site": "https://sites.google.com/view/alians-php-12/home"
+},
+{
+"id": 5,
+"title": "var_dump",
+"web_site": "https://sites.google.com/view/alians-php-13/home"
+},
+{
+"id": 6,
+"title": "Constants",
+"web_site": "https://sites.google.com/view/alians-php-14/home"
+},
+{
+"id": 7,
+"title": "Comments",
+"web_site": "https://sites.google.com/view/alians-php-15/home"
+},
+{
+"id": 8,
+"title": "var_dump",
+"web_site": "https://sites.google.com/view/alians-php-16/home"
+}
+]
+}
+]
+}
