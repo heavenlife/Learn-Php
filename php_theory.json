@@ -4,21 +4,21 @@
 "id": 1,
 "title": "Getting Started with PHP",
 "SubSection": [
-{
-"id": 1,
-"title": "What is PHP",
-"web_site": "https://sites.google.com/view/alians-php-1/home"
-},
-{
-"id": 2,
-"title": "Install PHP",
-"web_site": "https://sites.google.com/view/alians-php-2/home"
-},
-{
-"id": 3,
-"title": "Hello, World",
-"web_site": "https://sites.google.com/view/alians-php-3/home"
-}
+  {
+  "id": 1,
+  "title": "What is PHP",
+  "web_site": "https://sites.google.com/view/alians-php-1/home"
+  },
+  {
+  "id": 2,
+  "title": "Install PHP",
+  "web_site": "https://sites.google.com/view/alians-php-2/home"
+  },
+  {
+  "id": 3,
+  "title": "Hello, World",
+  "web_site": "https://sites.google.com/view/alians-php-3/home"
+  }
 ]
 },
 {
@@ -95,6 +95,140 @@
 "id": 8,
 "title": "var_dump",
 "web_site": "https://sites.google.com/view/alians-php-16/home"
+}
+]
+},
+{
+"id": 4,
+"title": "Operators",
+"SubSection": [
+{
+"id": 1,
+"title": "Assignment operators",
+"web_site": "https://sites.google.com/view/alians-php-17/home"
+},
+{
+"id": 2,
+"title": "Comparison operators",
+"web_site": "https://sites.google.com/view/alians-php-18/home"
+},
+{
+"id": 3,
+"title": "Logical AND operator (&&)",
+"web_site": "https://sites.google.com/view/alians-php-19/home"
+},
+{
+"id": 4,
+"title": "Logical OR operator (||)",
+"web_site": "https://sites.google.com/view/alians-php-20/home"
+},
+{
+"id": 5,
+"title": "Logical NOT operator (!)",
+"web_site": "https://sites.google.com/view/alians-php-21/home"
+},
+{
+"id": 6,
+"title": "Operators",
+"web_site": "https://sites.google.com/view/alians-php-22/home"
+}
+]
+},
+{
+"id": 5,
+"title": "Control flow",
+"SubSection": [
+{
+"id": 1,
+"title": "if",
+"web_site": "https://sites.google.com/view/alians-php-23/home"
+},
+{
+"id": 2,
+"title": "if-else",
+"web_site": "https://sites.google.com/view/alians-php-24/home"
+},
+{
+"id": 3,
+"title": "if-elseif",
+"web_site": "https://sites.google.com/view/alians-php-25/home"
+},
+{
+"id": 4,
+"title": "Ternary operator",
+"web_site": "https://sites.google.com/view/alians-php-26/home"
+},
+{
+"id": 5,
+"title": "switch",
+"web_site": "https://sites.google.com/view/alians-php-27/home"
+},
+{
+"id": 6,
+"title": "for",
+"web_site": "https://sites.google.com/view/alians-php-28/home"
+},
+{
+"id": 7,
+"title": "while",
+"web_site": "https://sites.google.com/view/alians-php-29/home"
+},
+{
+"id": 8,
+"title": "do-while",
+"web_site": "https://sites.google.com/view/alians-php-30/home"
+},
+{
+"id": 9,
+"title": "break",
+"web_site": "https://sites.google.com/view/alians-php-31/home"
+},
+{
+"id": 10,
+"title": "continue",
+"web_site": "https://sites.google.com/view/alians-php-32/home"
+},
+]
+},
+
+{
+"id": 6,
+"title": "Functions",
+"SubSection": [
+{
+"id": 1,
+"title": "Function Parameters",
+"web_site": "https://sites.google.com/view/alians-php-33/home"
+},
+{
+"id": 2,
+"title": "Default parameters",
+"web_site": "https://sites.google.com/view/alians-php-34/home"
+},
+{
+"id": 3,
+"title": "Named arguments",
+"web_site": "https://sites.google.com/view/alians-php-35/home"
+},
+{
+"id": 4,
+"title": "Variable scopes",
+"web_site": "https://sites.google.com/view/alians-php-36/home"
+},
+{
+"id": 5,
+"title": "Type hints",
+"web_site": "https://sites.google.com/view/alians-php-37/home"
+},
+{
+"id": 6,
+"title": "Strict typing",
+"web_site": "https://sites.google.com/view/alians-php-38/home"
+},
+{
+"id": 7,
+"title": "Variadic functions ",
+"web_site": "https://sites.google.com/view/alians-php-39/home"
 }
 ]
 }
