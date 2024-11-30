@@ -633,6 +633,57 @@
           "id": 8,
           "title": "Delete File",
           "web_site": "https://sites.google.com/view/alians-php-108/home"
+        },
+        {
+          "id": 9,
+          "title": "Rename File",
+          "web_site": "https://sites.google.com/view/alians-php-109/home"
+        },
+        {
+          "id": 10,
+          "title": "CSV",
+          "web_site": "https://sites.google.com/view/alians-php-110/home"
+        },
+        {
+          "id": 11,
+          "title": "filesize",
+          "web_site": "https://sites.google.com/view/alians-php-111/home"
+        },
+        {
+          "id": 12,
+          "title": "File Permissions",
+          "web_site": "https://sites.google.com/view/alians-php-112/home"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Working with Directories",
+      "SubSection": [
+        {
+          "id": 1,
+          "title": "Directory",
+          "web_site": "https://sites.google.com/view/alians-php-113/home"
+        },
+        {
+          "id": 2,
+          "title": "glob",
+          "web_site": "https://sites.google.com/view/alians-php-114/home"
+        },
+        {
+          "id": 3,
+          "title": "dirname",
+          "web_site": "https://sites.google.com/view/alians-php-115/home"
+        },
+        {
+          "id": 4,
+          "title": "basename",
+          "web_site": "https://sites.google.com/view/alians-php-116/home"
+        },
+        {
+          "id": 5,
+          "title": "pathinfo",
+          "web_site": "https://sites.google.com/view/alians-php-117/home"
         }
       ]
     }
