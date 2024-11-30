@@ -565,7 +565,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Login System",
       "SubSection": [
         {
@@ -587,6 +587,52 @@
           "id": 4,
           "title": "Remember Me",
           "web_site": "https://sites.google.com/view/alians-php-100/home"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Working with Files",
+      "SubSection": [
+        {
+          "id": 1,
+          "title": "Open File",
+          "web_site": "https://sites.google.com/view/alians-php-101/home"
+        },
+        {
+          "id": 2,
+          "title": "File Exists",
+          "web_site": "https://sites.google.com/view/alians-php-102/home"
+        },
+        {
+          "id": 3,
+          "title": "Read File",
+          "web_site": "https://sites.google.com/view/alians-php-103/home"
+        },
+        {
+          "id": 4,
+          "title": "file_get_contents",
+          "web_site": "https://sites.google.com/view/alians-php-104/home"
+        },
+        {
+          "id": 5,
+          "title": "file() Function",
+          "web_site": "https://sites.google.com/view/alians-php-105/home"
+        },
+        {
+          "id": 6,
+          "title": "Download File",
+          "web_site": "https://sites.google.com/view/alians-php-106/home"
+        },
+        {
+          "id": 7,
+          "title": "Copy File",
+          "web_site": "https://sites.google.com/view/alians-php-107/home"
+        },
+        {
+          "id": 8,
+          "title": "Delete File",
+          "web_site": "https://sites.google.com/view/alians-php-108/home"
         }
       ]
     }
