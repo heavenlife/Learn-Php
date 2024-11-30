@@ -389,6 +389,58 @@
           "web_site": "https://sites.google.com/view/alians-php-66/home"
         }
       ]
+    },
+    {
+      "id": 11,
+      "title": "Advanced Array Operations",
+      "SubSection": [
+        {
+          "id": 1,
+          "title": "Map",
+          "web_site": "https://sites.google.com/view/alians-php-67/home"
+        },
+        {
+          "id": 2,
+          "title": "Filter",
+          "web_site": "https://sites.google.com/view/alians-php-68/home"
+        },
+        {
+          "id": 3,
+          "title": "Reduce",
+          "web_site": "https://sites.google.com/view/alians-php-69/home"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Organizing PHP files",
+      "SubSection": [
+        {
+          "id": 1,
+          "title": "Include",
+          "web_site": "https://sites.google.com/view/alians-php-70/home"
+        },
+        {
+          "id": 2,
+          "title": "include_once",
+          "web_site": "https://sites.google.com/view/alians-php-71/home"
+        },
+        {
+          "id": 3,
+          "title": "require",
+          "web_site": "https://sites.google.com/view/alians-php-72/home"
+        },
+        {
+          "id": 4,
+          "title": "__DIR__",
+          "web_site": "https://sites.google.com/view/alians-php-73/home"
+        },
+        {
+          "id": 5,
+          "title": "Variable variables",
+          "web_site": "https://sites.google.com/view/alians-php-74/home"
+        }
+      ]
     }
   ]
 }
