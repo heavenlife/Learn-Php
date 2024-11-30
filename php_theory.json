@@ -686,6 +686,97 @@
           "web_site": "https://sites.google.com/view/alians-php-117/home"
         }
       ]
+    },
+    {
+      "id": 18,
+      "title": "String operations",
+      "SubSection": [
+        {
+          "id": 1,
+          "title": "strlen",
+          "web_site": "https://sites.google.com/view/alians-php-118/home"
+        },
+        {
+          "id": 2,
+          "title": "substr",
+          "web_site": "https://sites.google.com/view/alians-php-119/home"
+        },
+        {
+          "id": 3,
+          "title": "strpos",
+          "web_site": "https://sites.google.com/view/alians-php-120/home"
+        },
+        {
+          "id": 4,
+          "title": "str_replace",
+          "web_site": "https://sites.google.com/view/alians-php-121/home"
+        },
+        {
+          "id": 5,
+          "title": "implode",
+          "web_site": "https://sites.google.com/view/alians-php-122/home"
+        },
+        {
+          "id": 6,
+          "title": "explode",
+          "web_site": "https://sites.google.com/view/alians-php-123/home"
+        },
+        {
+          "id": 7,
+          "title": "trim",
+          "web_site": "https://sites.google.com/view/alians-php-124/home"
+        },
+        {
+          "id": 8,
+          "title": "ltrim",
+          "web_site": "https://sites.google.com/view/alians-php-125/home"
+        },
+        {
+          "id": 9,
+          "title": "rtrim",
+          "web_site": "https://sites.google.com/view/alians-php-126/home"
+        },
+        {
+          "id": 10,
+          "title": "htmlspecialchars()",
+          "web_site": "https://sites.google.com/view/alians-php-127/home"
+        },
+        {
+          "id": 11,
+          "title": "str_contains()",
+          "web_site": "https://sites.google.com/view/alians-php-128/home"
+        },
+        {
+          "id": 12,
+          "title": "str_starts_with()",
+          "web_site": "https://sites.google.com/view/alians-php-129/home"
+        },
+        {
+          "id": 13,
+          "title": "str_ends_with()",
+          "web_site": "https://sites.google.com/view/alians-php-130/home"
+        },
+        {
+          "id": 14,
+          "title": "strtolower()",
+          "web_site": "https://sites.google.com/view/alians-php-131/home"
+        },
+        {
+          "id": 15,
+          "title": "strtoupper()",
+          "web_site": "https://sites.google.com/view/alians-php-132/home"
+        },
+        {
+          "id": 16,
+          "title": "ucfirst()",
+          "web_site": "https://sites.google.com/view/alians-php-133/home"
+        },
+        {
+          "id": 17,
+          "title": "ucwords()",
+          "web_site": "https://sites.google.com/view/alians-php-134/home"
+        }
+      ]
     }
   ]
 }
