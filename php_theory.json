@@ -347,6 +347,48 @@
           "web_site": "https://sites.google.com/view/alians-php-60/home"
         }
       ]
+    },
+    {
+      "id": 9,
+      "title": "Advanced Functions",
+      "SubSection": [
+        {
+          "id": 1,
+          "title": "Anonymous functions",
+          "web_site": "https://sites.google.com/view/alians-php-61/home"
+        },
+        {
+          "id": 2,
+          "title": "Arrow functions",
+          "web_site": "https://sites.google.com/view/alians-php-62/home"
+        },
+        {
+          "id": 3,
+          "title": "Variable functions",
+          "web_site": "https://sites.google.com/view/alians-php-63/home"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Variable constructs",
+      "SubSection": [
+        {
+          "id": 1,
+          "title": "isset",
+          "web_site": "https://sites.google.com/view/alians-php-64/home"
+        },
+        {
+          "id": 2,
+          "title": "empty",
+          "web_site": "https://sites.google.com/view/alians-php-65/home"
+        },
+        {
+          "id": 3,
+          "title": "is_null",
+          "web_site": "https://sites.google.com/view/alians-php-66/home"
+        }
+      ]
     }
   ]
 }
