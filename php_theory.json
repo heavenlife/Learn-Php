@@ -777,6 +777,108 @@
           "web_site": "https://sites.google.com/view/alians-php-134/home"
         }
       ]
+    },
+    {
+      "id": 19,
+      "title": "Regular Expressions",
+      "SubSection": [
+        {
+          "id": 1,
+          "title": "Regular Expressions",
+          "web_site": "https://sites.google.com/view/alians-php-135/home"
+        },
+        {
+          "id": 2,
+          "title": "Character Classes",
+          "web_site": "https://sites.google.com/view/alians-php-136/home"
+        },
+        {
+          "id": 3,
+          "title": "Anchors",
+          "web_site": "https://sites.google.com/view/alians-php-137/home"
+        },
+        {
+          "id": 4,
+          "title": "Word Boundary",
+          "web_site": "https://sites.google.com/view/alians-php-138/home"
+        },
+        {
+          "id": 5,
+          "title": "Sets & Ranges",
+          "web_site": "https://sites.google.com/view/alians-php-139/home"
+        },
+        {
+          "id": 6,
+          "title": "Quantifiers",
+          "web_site": "https://sites.google.com/view/alians-php-140/home"
+        },
+        {
+          "id": 7,
+          "title": "Greedy Quantifiers",
+          "web_site": "https://sites.google.com/view/alians-php-141/home"
+        },
+        {
+          "id": 8,
+          "title": "Non-greedy (or lazy) Quantifiers",
+          "web_site": "https://sites.google.com/view/alians-php-142/home"
+        },
+        {
+          "id": 9,
+          "title": "Capturing groups",
+          "web_site": "https://sites.google.com/view/alians-php-143/home"
+        },
+        {
+          "id": 10,
+          "title": "Backreferences",
+          "web_site": "https://sites.google.com/view/alians-php-144/home"
+        },
+        {
+          "id": 11,
+          "title": "Alternation",
+          "web_site": "https://sites.google.com/view/alians-php-145/home"
+        },
+        {
+          "id": 12,
+          "title": "Lookahead",
+          "web_site": "https://sites.google.com/view/alians-php-146/home"
+        },
+        {
+          "id": 13,
+          "title": "Lookbehind",
+          "web_site": "https://sites.google.com/view/alians-php-147/home"
+        },
+        {
+          "id": 14,
+          "title": "preg_match()",
+          "web_site": "https://sites.google.com/view/alians-php-148/home"
+        },
+        {
+          "id": 15,
+          "title": "preg_match_all()",
+          "web_site": "https://sites.google.com/view/alians-php-149/home"
+        },
+        {
+          "id": 16,
+          "title": "preg_replace()",
+          "web_site": "https://sites.google.com/view/alians-php-150/home"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Date & Time",
+      "SubSection": [
+        {
+          "id": 1,
+          "title": "Time",
+          "web_site": "https://sites.google.com/view/alians-php-151/home"
+        },
+        {
+          "id": 2,
+          "title": "Date",
+          "web_site": "https://sites.google.com/view/alians-php-152/home"
+        }
+      ]
     }
   ]
 }
